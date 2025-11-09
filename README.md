@@ -1,7 +1,6 @@
-# Discord-Bot-Phishing-Detection
-Machine Learning based phishing detection bot for Discord "Fish Finder"  
-UNBF CS6495 Capstone Project for Master of Applied Cybersecurity
-
+# Discord-Bot-MaliciousURL-Detection
+Deep Learning TCN (Temporal Convolutional Networks) based phishing detection bot for Discord  
+Codebase originally from https://github.com/Dinnerspy/Discord-Bot-Phishing-Detection. and heavily modified to use TCN instead
 
 ## Requirements
 Built with Python 3.8.0
@@ -38,3 +37,4 @@ to be added
 
 ## Acknowledgement
 Hannousse, Abdelhakim; Yahiouche, Salima (2021), “Web page phishing detection”, Mendeley Data, V3, doi: 10.17632/c2gw7fy2j4.3 also available here:(https://data.mendeley.com/datasets/c2gw7fy2j4/3)
+N. Ouellette, Y. Baseri, and B. Kaur, “I Am Bot the ‘Fish Finder’: Detecting Malware that Targets Online Gaming Platform,” in Proceedings of Eighth International Congress on Information and Communication Technology, vol. 693, X.-S. Yang, R. S. Sherratt, N. Dey, and A. Joshi, Eds., in Lecture Notes in Networks and Systems, vol. 693. , Singapore: Springer Nature Singapore, 2023, pp. 261–274. doi: 10.1007/978-981-99-3243-6_21.
